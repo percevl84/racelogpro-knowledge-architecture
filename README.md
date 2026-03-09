@@ -153,7 +153,7 @@ racelogpro-knowledge-architecture/
 
 ## About
 
-Built by [Andrea Marletta](https://www.linkedin.com/in/andreamarletta/) -- professional ballroom dancer turned AI product builder, lifelong motorsport enthusiast, and someone who has never been able to separate the love of learning from the need to teach what he learns. RaceLogPro exists at that intersection: a real product born from a passion for racing, built through a system designed to make AI tools genuinely useful, and documented here because the methodology should not stay private.
+Built by [Andrea Marletta](https://www.linkedin.com/in/marletta-ai/) -- professional ballroom dancer turned AI product builder, lifelong motorsport enthusiast, and someone who has never been able to separate the love of learning from the need to teach what he learns. RaceLogPro exists at that intersection: a real product born from a passion for racing, built through a system designed to make AI tools genuinely useful, and documented here because the methodology should not stay private.
 
 Questions, feedback, or similar war stories welcome via [LinkedIn](https://www.linkedin.com/in/andreamarletta/) or [GitHub Issues](https://github.com/percevl84/racelogpro-knowledge-architecture/issues).
 
